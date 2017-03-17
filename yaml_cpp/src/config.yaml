@@ -1,0 +1,25 @@
+# user_info
+user_info:
+  username: admin
+  password: 1234
+
+# path
+path:
+  input_path: /home/ubuntu/input
+  output_path: /home/ubuntu/output
+  start_frame: 3500
+
+
+# camera
+camera.cx: 325.5
+camera.cy: 253.5
+camera.fx: 518.0
+camera.fy: 519.0
+camera.scale: 1000.0
+
+# 中文干扰测试
+# 起始与终止索引
+start_index: 1
+end_index: 3
+# 数据所在目录
+

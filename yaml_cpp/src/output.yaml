@@ -1,0 +1,39 @@
+1
+---
+1.1
+---
+1.1
+---
+true
+---
+# This is a comment!
+- eggs
+- milk
+- fruit
+-
+  - apple
+  - banana
+---
+name: Barack Obama
+children:
+  - Sasha
+  - Malia
+fruit:
+  apple: 10kg
+  banana: 20kg
+---
+|
+  A
+   B
+    C
+---
+[2, 3, 5, 7, 11]
+---
+- [1, 4, 9, 16]
+- Daniel: 26
+  Jesse: 24
+---
+- &fred
+  name: Fred
+  age: 42
+- *fred

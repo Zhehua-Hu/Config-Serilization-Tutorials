@@ -1,3 +1,0 @@
-/home/zhehua/Github/Config-Serilization-Tutorials/yaml/yaml_cpp/build/debug/CMakeFiles/rebuild_cache.dir
-/home/zhehua/Github/Config-Serilization-Tutorials/yaml/yaml_cpp/build/debug/CMakeFiles/edit_cache.dir
-/home/zhehua/Github/Config-Serilization-Tutorials/yaml/yaml_cpp/build/debug/CMakeFiles/main.dir

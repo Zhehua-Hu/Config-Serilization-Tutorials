@@ -1,0 +1,3 @@
+/home/zhehua/codes/templates/minimum_useCLion_Debug_Release/build/release/CMakeFiles/edit_cache.dir
+/home/zhehua/codes/templates/minimum_useCLion_Debug_Release/build/release/CMakeFiles/rebuild_cache.dir
+/home/zhehua/codes/templates/minimum_useCLion_Debug_Release/build/release/CMakeFiles/main.dir

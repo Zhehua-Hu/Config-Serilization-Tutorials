@@ -1,0 +1,8 @@
+DictDemo: {key1: hello, key2: hello_string, key3: true, key4: 1.1, key5: null, key6: null,
+  key7: 1976-07-31, key8: '123'}
+ListDemo:
+- list1
+- {list2: hello_list}
+- [sublist1, sublist2]
+password: 123456
+username: admin

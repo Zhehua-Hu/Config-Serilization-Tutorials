@@ -1,0 +1,19 @@
+username: admin
+password: 123456
+
+DictDemo:
+    key1: hello
+    key2: "hello_string"
+    key3: true
+    key4: 1.1
+    key5: null
+    key6: ~
+    key7: 1976-07-31
+    key8: !!str 123
+
+ListDemo:
+  - list1
+  - list2 : "hello_list"
+  -
+    - sublist1
+    - sublist2

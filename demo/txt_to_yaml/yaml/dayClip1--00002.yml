@@ -1,0 +1,19 @@
+annotation:
+  filename: dayClip1--00002.png
+  folder: VOC2007
+  object:
+  - bndbox: {xmax: '710', xmin: '698', ymax: '356', ymin: '331'}
+    difficult: '0'
+    name: go
+    pose: Left
+    truncated: '0'
+  - bndbox: {xmax: '860', xmin: '848', ymax: '409', ymin: '389'}
+    difficult: '0'
+    name: go
+    pose: Left
+    truncated: '0'
+  owner: {flickrid: Fried Camels, name: Jinky the Fruit Bat}
+  segmented: '0'
+  size: {depth: '3', height: '500', width: '353'}
+  source: {annotation: PASCAL VOC2007, database: The VOC2007 Database, flickrid: '341012865',
+    image: flickr}

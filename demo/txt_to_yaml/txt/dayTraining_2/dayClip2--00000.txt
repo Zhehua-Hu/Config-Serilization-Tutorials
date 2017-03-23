@@ -1,0 +1,5 @@
+dayTraining/dayClip2--00000.png
+stop 902 242 929 287 
+stop 1220 334 1244 374
+stopLeft 754 243 784 288
+stopLeft 174 351 192 378

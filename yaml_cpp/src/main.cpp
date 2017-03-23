@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-#include "main_include.hpp"
 
 #include <yaml-cpp/yaml.h>
 #include <assert.h>

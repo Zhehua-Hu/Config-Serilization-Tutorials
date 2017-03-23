@@ -1,0 +1,3 @@
+dayTraining/dayClip1--00000.png
+go 698 333 710 358 
+go 846 391 858 411

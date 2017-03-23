@@ -1,0 +1,29 @@
+annotation:
+  filename: dayClip2--00002.png
+  folder: VOC2007
+  object:
+  - bndbox: {xmax: '930', xmin: '900', ymax: '289', ymin: '240'}
+    difficult: '0'
+    name: stop
+    pose: Left
+    truncated: '0'
+  - bndbox: {xmax: '1248', xmin: '1215', ymax: '373', ymin: '333'}
+    difficult: '0'
+    name: stop
+    pose: Left
+    truncated: '0'
+  - bndbox: {xmax: '779', xmin: '758', ymax: '277', ymin: '246'}
+    difficult: '0'
+    name: stopLeft
+    pose: Left
+    truncated: '0'
+  - bndbox: {xmax: '192', xmin: '174', ymax: '372', ymin: '350'}
+    difficult: '0'
+    name: stopLeft
+    pose: Left
+    truncated: '0'
+  owner: {flickrid: Fried Camels, name: Jinky the Fruit Bat}
+  segmented: '0'
+  size: {depth: '3', height: '500', width: '353'}
+  source: {annotation: PASCAL VOC2007, database: The VOC2007 Database, flickrid: '341012865',
+    image: flickr}
